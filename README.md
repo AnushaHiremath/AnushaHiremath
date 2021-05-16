@@ -12,8 +12,7 @@ Frontend web developer specializing in HTML5, CSS3, and JavaScript languages.
 
 💬Communication Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="google" height="50" width="50"/>     
-<a href="https://www.linkedin.com/in/anusha-hiremath-3b48a2a3/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" height="50" width="50"/></a>     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" height="50" width="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="facebook" height="50" width="50"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" height="50" width="50"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="50" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="google" height="50" width="50"/> <a href="https://www.linkedin.com/feed/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" height="50" width="50"/></a>     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter" height="50" width="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="facebook" height="50" width="50"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" height="50" width="50"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="50" width="50"/>
 
 
 
