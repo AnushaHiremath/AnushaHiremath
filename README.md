@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Anusha Hiremath
 
-<!--
+<!--Frontend web developer specializing in HTML5, CSS3, and JavaScript languages.
 **AnushaHiremath/AnushaHiremath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
