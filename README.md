@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anusha Hiremath
+### Hi there 👋 I am Anusha 
 
 Frontend web developer specializing in HTML5, CSS3, and JavaScript languages.
 
