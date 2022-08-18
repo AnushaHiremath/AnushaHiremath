@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Anusha 
 
-Frontend web developer specializing in HTML5, CSS3, and JavaScript languages.
+Frontend web developer specializing in HTML5, CSS3, JavaScript, ReactJS, Redux languages.
 
 -----
 
